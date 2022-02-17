@@ -1,8 +1,0 @@
-
-LET list = list of the given input
-
-LET sum = 0
-
-FOR x in list:
-	x = x**2
-	sum = sum + x
