@@ -1,0 +1,10 @@
+sum = 0
+counter = true
+
+WHILE counter == true:
+	number = input(please input a number)
+	IF number > = 0:
+		THEN sum = sum + number
+	ELSE:
+		counter == false
+PRINT sum
