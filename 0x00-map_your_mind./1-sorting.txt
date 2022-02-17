@@ -1,0 +1,7 @@
+first_number = input("please input the first number")
+second_number = input("please input the second number")
+third_number = input("please input the third number")
+	
+sorted = SORT(first_number,second_number,third_number)
+
+PRINT sorted
